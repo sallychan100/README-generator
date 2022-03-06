@@ -19,17 +19,17 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message:'Please provide installation instructions.'
+        message:'Please provide command used for installation.'
     },
     {
         type: 'input',
         name: 'usage',
-        message:'How can users utilize this project?'
+        message:'What commands users should use to after installation?'
     },
     {
         type: 'input',
         name: 'contributing',
-        message:'How can users contribute to this project?'
+        message:'How can users contribute to this project? If more than one way, seperate in comma'
     },
     {
         type: 'input',
@@ -52,11 +52,6 @@ const questions = [
         name: 'email',
         message: 'Please enter your email address',
     },
-    {
-        type: 'input',
-        name: 'url',
-        message: 'Please enter your deployed application URL',
-      },
 ];
 
 // TODO: Create a function to write README file
