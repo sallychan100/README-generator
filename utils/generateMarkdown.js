@@ -56,6 +56,9 @@ ${data.tests}
 
 ## Questions
 If you have any questions, please reach out to me at [My email](${data.email}) or at [github](https://github.com/${data.github})
+
+## Walkthrough 
+[video](https://github.com/sallychan100/README-generator/blob/85d75b58536d4dbf8ac292ea11ba660502c67f3e/README%20generator%20walkthrough_Trim.mp4)
 `;
 }
 
