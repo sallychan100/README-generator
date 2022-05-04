@@ -41,4 +41,4 @@ git pull and git push
 If you have any questions, please reach out to me at [My email](sallywing123@gmail.com) or at [github](https://github.com/sallychan100)
 
 ## Walkthrough 
-[video](https://github.com/sallychan100/README-generator/blob/dd974204638f72332243058530f9650fa260c232/utils/walkthrough.gif)
+[video](https://drive.google.com/file/d/1Di5_T_QfiUsOMm_W3-mfZNy1sz01PkIT/view?usp=sharing)
