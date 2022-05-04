@@ -18,5 +18,6 @@
   "homepage": "https://github.com/sallychan100/README-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "devDependencies": {}
 }
